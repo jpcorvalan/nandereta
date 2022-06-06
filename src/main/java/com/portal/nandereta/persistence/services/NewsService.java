@@ -9,7 +9,6 @@ import com.portal.nandereta.domain.repositories.NoticiaRepository;
 import com.portal.nandereta.persistence.mapper.NoticiaMapper;
 import com.portal.nandereta.persistence.models.NewsModel;
 import com.portal.nandereta.persistence.repositories.NewsRepository;
-import java.util.Collections;
 import java.util.List;
 import java.util.Optional;
 import org.springframework.beans.factory.annotation.Autowired;

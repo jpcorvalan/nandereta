@@ -14,8 +14,7 @@ import com.portal.nandereta.web.helpers.UserJsonView;
 public class UsuarioModel {
     
     @JsonView(UserJsonView.UserInNews.class)    
-    private long idUsuario;
-    
+    private long idUsuario;    
     
     @JsonView(UserJsonView.UserInNews.class)
     private String nombreUsuario;
